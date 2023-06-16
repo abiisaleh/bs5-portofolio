@@ -1,0 +1,21 @@
+.nav-container {
+    background: #2f3336;
+}
+
+section {
+    padding: 20px 0 5px;
+}
+
+.btn {
+    border-radius: 100px;
+    padding-left: 25px;
+    padding-right: 25px;
+}
+
+.nav-link.active {
+    color: var(--bs-danger) !important;
+}
+
+#home {
+    min-height: 80vh;
+}
